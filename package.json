@@ -1,0 +1,17 @@
+{
+  "name": "faithlife-oauth-mach",
+  "version": "0.1.0",
+  "description": "Mach subapp to authenticate with the Faithlife API via OAuth.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Schoonmaker <michael.schoonmaker@logos.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "mach": "~0.12.0"
+  },
+  "dependencies": {
+    "rest": "~1.1.1"
+  }
+}

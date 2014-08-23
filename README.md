@@ -1,3 +1,3 @@
-# Mach Faithlife OAuth
+# Faithlife OAuth Consumer
 
-A Mach subapp to authenticate with the Faithlife API via OAuth.
+Middleware and Consumers for authenticating with the Faithlife API via OAuth.

@@ -1,7 +1,7 @@
 {
-  "name": "faithlife-oauth-mach",
+  "name": "faithlife-oauth",
   "version": "0.1.0",
-  "description": "Mach subapp to authenticate with the Faithlife API via OAuth.",
+  "description": "Middleware and Consumers for authenticating with the Faithlife API via OAuth.",
   "main": "lib/index.js",
   "scripts": {
     "test": "node test"

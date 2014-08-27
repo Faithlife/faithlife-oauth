@@ -1,6 +1,6 @@
 {
   "name": "faithlife-oauth",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Middleware and Consumers for authenticating with the Faithlife API via OAuth.",
   "main": "lib/index.js",
   "scripts": {
